@@ -25,6 +25,7 @@ This project is developed by a team of 4 members with the help of the Spring-Boo
 - Maven
 - Spring Boot Framework
 - Spring Data JPA
+- Postman
 - Hibernate
 - MySQL
 - Swagger-UI
